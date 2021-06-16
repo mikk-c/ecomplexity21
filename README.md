@@ -20,4 +20,5 @@ Open questions:
 
 Should the Annihilation complexity be iterative?
 Does it make any sense to calculate and include in the updates an importer complexity?
+Can we build a special Product Space in which network variance works better than it does now? (It'd be one with the core made of simple products and branches that progressively get more demanding in capabilities)
 
