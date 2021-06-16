@@ -1,0 +1,258 @@
+0	"ABW"	"Aruba"	"country"	356
+1	"AFG"	"Afghanistan"	"country"	353
+2	"AGO"	"Angola"	"country"	352
+3	"AIA"	"Anguilla"	"country"	356
+4	"ALB"	"Albania"	"country"	355
+5	"AND"	"Andorra"	"country"	355
+6	"ANT"	"Netherlands Antilles"	"country"	356
+7	"ARE"	"United Arab Emirates"	"country"	353
+8	"ARG"	"Argentina"	"country"	357
+9	"ARM"	"Armenia"	"country"	353
+10	"ASM"	"American Samoa"	"country"	358
+11	"ATA"	"Antarctica"	"country"	358
+12	"ATF"	"French Southern and Antarctic Lands"	"country"	358
+13	"ATG"	"Antigua and Barbuda"	"country"	356
+14	"AUS"	"Australia"	"country"	354
+15	"AUT"	"Austria"	"country"	355
+16	"AZE"	"Azerbaijan"	"country"	353
+17	"BDI"	"Burundi"	"country"	352
+18	"BEL"	"Belgium"	"country"	355
+19	"BEN"	"Benin"	"country"	352
+20	"BES"	"Bonaire"	"country"	357
+21	"BFA"	"Burkina Faso"	"country"	352
+22	"BGD"	"Bangladesh"	"country"	353
+23	"BGR"	"Bulgaria"	"country"	355
+24	"BHR"	"Bahrain"	"country"	353
+25	"BHS"	"Bahamas"	"country"	356
+26	"BIH"	"Bosnia and Herzegovina"	"country"	355
+27	"BLM"	"Saint Barthélemy"	"country"	356
+28	"BLR"	"Belarus"	"country"	355
+29	"BLZ"	"Belize"	"country"	356
+30	"BMU"	"Bermuda"	"country"	356
+31	"BOL"	"Bolivia"	"country"	357
+32	"BRA"	"Brazil"	"country"	357
+33	"BRB"	"Barbados"	"country"	356
+34	"BRN"	"Brunei Darussalam"	"country"	353
+35	"BTN"	"Bhutan"	"country"	353
+36	"BVT"	"Bouvet Island"	"country"	358
+37	"BWA"	"Botswana"	"country"	352
+38	"CAF"	"Central African Republic"	"country"	352
+39	"CAN"	"Canada"	"country"	356
+40	"CCK"	"Cocos (Keeling) Islands"	"country"	354
+41	"CHE"	"Switzerland"	"country"	355
+42	"CHL"	"Chile"	"country"	357
+43	"CHN"	"China"	"country"	353
+44	"CIV"	"Côte d'Ivoire"	"country"	352
+45	"CMR"	"Cameroon"	"country"	352
+46	"COD"	"Congo (Democratic Republic of the)"	"country"	352
+47	"COG"	"Congo"	"country"	352
+48	"COK"	"Cook Islands"	"country"	354
+49	"COL"	"Colombia"	"country"	357
+50	"COM"	"Comoros"	"country"	352
+51	"CPV"	"Cabo Verde"	"country"	352
+52	"CRI"	"Costa Rica"	"country"	356
+53	"CSK"	"Czechoslovakia"	"country"	355
+54	"CUB"	"Cuba"	"country"	356
+55	"CUW"	"Curaçao"	"country"	356
+56	"CXR"	"Christmas Island"	"country"	354
+57	"CYM"	"Cayman Islands"	"country"	356
+58	"CYP"	"Cyprus"	"country"	353
+59	"CZE"	"Czech Republic"	"country"	355
+60	"DDR"	"Fmr Dem. Rep. of Germany"	"country"	355
+61	"DEU"	"Germany"	"country"	355
+62	"DJI"	"Djibouti"	"country"	352
+63	"DMA"	"Dominica"	"country"	356
+64	"DNK"	"Denmark"	"country"	355
+65	"DOM"	"Dominican Republic"	"country"	356
+66	"DZA"	"Algeria"	"country"	352
+67	"ECU"	"Ecuador"	"country"	357
+68	"EGY"	"Egypt"	"country"	352
+69	"ERI"	"Eritrea"	"country"	352
+70	"ESH"	"Western Sahara"	"country"	352
+71	"ESP"	"Spain"	"country"	355
+72	"EST"	"Estonia"	"country"	355
+73	"ETH"	"Ethiopia"	"country"	352
+74	"FIN"	"Finland"	"country"	355
+75	"FJI"	"Fiji"	"country"	354
+76	"FLK"	"Falkland Islands"	"country"	356
+77	"FRA"	"France"	"country"	355
+78	"FRO"	"Faroe Islands"	"country"	355
+79	"FSM"	"Micronesia"	"country"	354
+80	"GAB"	"Gabon"	"country"	352
+81	"GBR"	"United Kingdom"	"country"	355
+82	"GEO"	"Georgia"	"country"	353
+83	"GHA"	"Ghana"	"country"	352
+84	"GIB"	"Gibraltar"	"country"	355
+85	"GIN"	"Guinea"	"country"	352
+86	"GLP"	"Guadeloupe"	"country"	356
+87	"GMB"	"Gambia"	"country"	352
+88	"GNB"	"Guinea-Bissau"	"country"	352
+89	"GNQ"	"Equatorial Guinea"	"country"	352
+90	"GRC"	"Greece"	"country"	355
+91	"GRD"	"Grenada"	"country"	356
+92	"GRL"	"Greenland"	"country"	356
+93	"GTM"	"Guatemala"	"country"	356
+94	"GUF"	"French Guiana"	"country"	357
+95	"GUM"	"Guam"	"country"	354
+96	"GUY"	"Guyana"	"country"	357
+97	"HKG"	"Hong Kong"	"country"	353
+98	"HMD"	"Heard and McDonald Islands"	"country"	358
+99	"HND"	"Honduras"	"country"	356
+100	"HRV"	"Croatia"	"country"	355
+101	"HTI"	"Haiti"	"country"	356
+102	"HUN"	"Hungary"	"country"	355
+103	"IDN"	"Indonesia"	"country"	353
+104	"IND"	"India"	"country"	353
+105	"IOT"	"British Indian Ocean Territory"	"country"	358
+106	"IRL"	"Ireland"	"country"	355
+107	"IRN"	"Iran"	"country"	353
+108	"IRQ"	"Iraq"	"country"	353
+109	"ISL"	"Iceland"	"country"	355
+110	"ISR"	"Israel"	"country"	353
+111	"ITA"	"Italy"	"country"	355
+112	"JAM"	"Jamaica"	"country"	356
+113	"JOR"	"Jordan"	"country"	353
+114	"JPN"	"Japan"	"country"	353
+115	"KAZ"	"Kazakhstan"	"country"	353
+116	"KEN"	"Kenya"	"country"	352
+117	"KGZ"	"Kyrgyzstan"	"country"	353
+118	"KHM"	"Cambodia"	"country"	353
+119	"KIR"	"Kiribati"	"country"	354
+120	"KNA"	"Saint Kitts and Nevis"	"country"	356
+121	"KOR"	"South Korea"	"country"	353
+122	"KWT"	"Kuwait"	"country"	353
+123	"LAO"	"Laos"	"country"	353
+124	"LBN"	"Lebanon"	"country"	353
+125	"LBR"	"Liberia"	"country"	352
+126	"LBY"	"Libya"	"country"	352
+127	"LCA"	"Saint Lucia"	"country"	356
+128	"LKA"	"Sri Lanka"	"country"	353
+129	"LSO"	"Lesotho"	"country"	352
+130	"LTU"	"Lithuania"	"country"	355
+131	"LUX"	"Luxembourg"	"country"	355
+132	"LVA"	"Latvia"	"country"	355
+133	"MAC"	"Macao"	"country"	353
+134	"MAR"	"Morocco"	"country"	352
+135	"MDA"	"Moldova"	"country"	355
+136	"MDG"	"Madagascar"	"country"	352
+137	"MDV"	"Maldives"	"country"	353
+138	"MEX"	"Mexico"	"country"	356
+139	"MHL"	"Marshall Islands"	"country"	354
+140	"MKD"	"North Macedonia"	"country"	355
+141	"MLI"	"Mali"	"country"	352
+142	"MLT"	"Malta"	"country"	355
+143	"MMR"	"Myanmar"	"country"	353
+144	"MNE"	"Montenegro"	"country"	355
+145	"MNG"	"Mongolia"	"country"	353
+146	"MNP"	"Northern Mariana Islands"	"country"	354
+147	"MOZ"	"Mozambique"	"country"	352
+148	"MRT"	"Mauritania"	"country"	352
+149	"MSR"	"Montserrat"	"country"	356
+150	"MTQ"	"Martinique"	"country"	356
+151	"MUS"	"Mauritius"	"country"	352
+152	"MWI"	"Malawi"	"country"	352
+153	"MYS"	"Malaysia"	"country"	353
+154	"MYT"	"Mayotte"	"country"	352
+155	"NAM"	"Namibia"	"country"	352
+156	"NCL"	"New Caledonia"	"country"	354
+157	"NER"	"Niger"	"country"	352
+158	"NFK"	"Norfolk Island"	"country"	354
+159	"NGA"	"Nigeria"	"country"	352
+160	"NIC"	"Nicaragua"	"country"	356
+161	"NIU"	"Niue"	"country"	354
+162	"NLD"	"Netherlands"	"country"	355
+163	"NOR"	"Norway"	"country"	355
+164	"NPL"	"Nepal"	"country"	353
+165	"NRU"	"Nauru"	"country"	354
+166	"NZL"	"New Zealand"	"country"	354
+167	"OMN"	"Oman"	"country"	353
+168	"PAK"	"Pakistan"	"country"	353
+169	"PAN"	"Panama"	"country"	356
+170	"PCI"	"Fmr. Pacific Islands"	"country"	354
+171	"PCN"	"Pitcairn"	"country"	354
+172	"PCZ"	"Panama Canal Zone"	"country"	356
+173	"PER"	"Peru"	"country"	357
+174	"PHL"	"Philippines"	"country"	353
+175	"PLW"	"Palau"	"country"	354
+176	"PNG"	"Papua New Guinea"	"country"	354
+177	"POL"	"Poland"	"country"	355
+178	"PRK"	"North Korea"	"country"	353
+179	"PRT"	"Portugal"	"country"	355
+180	"PRY"	"Paraguay"	"country"	357
+181	"PSE"	"Palestine"	"country"	353
+182	"PYF"	"French Polynesia"	"country"	354
+183	"QAT"	"Qatar"	"country"	353
+184	"REU"	"Réunion"	"country"	352
+185	"ROU"	"Romania"	"country"	355
+186	"RUS"	"Russian Federation"	"country"	355
+187	"RWA"	"Rwanda"	"country"	352
+188	"SAU"	"Saudi Arabia"	"country"	353
+189	"SCG"	"Serbia and Montenegro"	"country"	355
+190	"SDN"	"Sudan"	"country"	352
+191	"SEN"	"Senegal"	"country"	352
+192	"SGP"	"Singapore"	"country"	353
+193	"SGS"	"South Georgia and South Sandwich Islds."	"country"	358
+194	"SHN"	"Saint Helena, Ascension and Tristan da Cunha"	"country"	352
+195	"SLB"	"Solomon Islands"	"country"	354
+196	"SLE"	"Sierra Leone"	"country"	352
+197	"SLV"	"El Salvador"	"country"	356
+198	"SMR"	"San Marino"	"country"	355
+199	"SOM"	"Somalia"	"country"	352
+200	"SPM"	"Saint Pierre and Miquelon"	"country"	356
+201	"SRB"	"Serbia"	"country"	355
+202	"SSD"	"South Sudan"	"country"	352
+203	"STP"	"Sao Tome and Principe"	"country"	352
+204	"SUN"	"Former USSR"	"country"	355
+205	"SUR"	"Suriname"	"country"	357
+206	"SVK"	"Slovakia"	"country"	355
+207	"SVN"	"Slovenia"	"country"	355
+208	"SWE"	"Sweden"	"country"	355
+209	"SWZ"	"Eswatini"	"country"	352
+210	"SXM"	"St-Martin / St Maarten"	"country"	356
+211	"SYC"	"Seychelles"	"country"	352
+212	"SYR"	"Syrian Arab Republic"	"country"	353
+213	"TCA"	"Turks and Caicos Islands"	"country"	356
+214	"TCD"	"Chad"	"country"	352
+215	"TGO"	"Togo"	"country"	352
+216	"THA"	"Thailand"	"country"	353
+217	"TJK"	"Tajikistan"	"country"	353
+218	"TKL"	"Tokelau"	"country"	354
+219	"TKM"	"Turkmenistan"	"country"	353
+220	"TLS"	"Timor-Leste"	"country"	353
+221	"TON"	"Tonga"	"country"	354
+222	"TTO"	"Trinidad and Tobago"	"country"	356
+223	"TUN"	"Tunisia"	"country"	352
+224	"TUR"	"Turkey"	"country"	353
+225	"TUV"	"Tuvalu"	"country"	354
+226	"TZA"	"Tanzania"	"country"	352
+227	"UGA"	"Uganda"	"country"	352
+228	"UKR"	"Ukraine"	"country"	355
+229	"UMI"	"United States Minor Outlying Islands"	"country"	358
+230	"URY"	"Uruguay"	"country"	357
+231	"USA"	"United States of America"	"country"	356
+232	"UZB"	"Uzbekistan"	"country"	353
+233	"VAT"	"Vatican City"	"country"	355
+234	"VCT"	"Saint Vincent and the Grenadines"	"country"	356
+235	"VDR"	"Fmr Dem. Rep. of Vietnam"	"country"	353
+236	"VEN"	"Venezuela"	"country"	357
+237	"VGB"	"Virgin Islands (British)"	"country"	356
+238	"VIR"	"Virgin Islands (U.S.)"	"country"	356
+239	"VNM"	"Vietnam"	"country"	353
+240	"VUT"	"Vanuatu"	"country"	354
+241	"WLF"	"Wallis and Futuna"	"country"	354
+242	"WSM"	"Samoa"	"country"	354
+243	"YEM"	"Yemen"	"country"	353
+244	"YMD"	"Fmr Dem. Yemen"	"country"	353
+245	"YUG"	"Yugoslavia"	"country"	355
+246	"ZAF"	"South Africa"	"country"	352
+247	"ZMB"	"Zambia"	"country"	352
+248	"ZWE"	"Zimbabwe"	"country"	352
+249	"TWN"	"Taiwan"	"country"	353
+250	"ANS"	"Undeclared Countries"	"country"	358
+251	"1"	"Africa"	"region"	
+252	"2"	"Asia"	"region"	
+253	"3"	"Oceania"	"region"	
+254	"4"	"Europe"	"region"	
+255	"5"	"North America"	"region"	
+256	"6"	"South America"	"region"	
+257	"7"	"Other"	"region"	
